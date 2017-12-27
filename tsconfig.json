@@ -1,0 +1,6 @@
+// https://stackoverflow.com/questions/43555378/ts-an-async-function-or-method-in-es5-es3-requires-the-promise-constructor/43555510#43555510
+{
+  "compilerOptions": {
+    "lib": [ "es2015" ]
+  }
+}
